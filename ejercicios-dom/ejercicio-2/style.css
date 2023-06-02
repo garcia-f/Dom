@@ -1,0 +1,14 @@
+.container-app{
+    max-width: 900px;
+    margin: 30px auto;
+
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
